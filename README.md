@@ -2,7 +2,7 @@
 - 👀 I’m a student of Computer Sciences at Comsats University Islamabad
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 Reach out to me at doultanasameer@gmail.com
+- 📫 Reach me out at doultanasameer@gmail.com
 
 <!---
 Sameer-Doultana/Sameer-Doultana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
