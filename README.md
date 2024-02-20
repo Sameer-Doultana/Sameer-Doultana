@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sameer Ahmad Doultana
 - 👀 I’m a student of Computer Sciences at Comsats University Islamabad
-- 🌱 I’m currently learning full stack web development
+- 🌱 I’m currently focused on enhancing my skills as a UI/UX designer and React-native mobile app developer
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me out at doultanasameer@gmail.com
 
